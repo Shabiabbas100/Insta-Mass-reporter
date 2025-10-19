@@ -1,0 +1,4 @@
+webbot
+pyautogui
+selenium 
+webdriver-manager
